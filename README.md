@@ -1,2 +1,3 @@
 #Test Read Me file
-Testing github
+Github 101
+Altering from Github
